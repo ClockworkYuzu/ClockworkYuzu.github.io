@@ -3,7 +3,7 @@ layout: post
 title: Firewall project
 subtitle: Next-Generation Firewall Practice
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/firewall.png
+thumbnail-img: /assets/img/firewall.jpg
 share-img: /assets/img/path.jpg
 tags: [firewal, NGFS]
 author: Yvette He
