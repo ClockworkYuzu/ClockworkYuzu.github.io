@@ -20,7 +20,7 @@ author: Yvette He
 ###############################################
 
 navbar-links:
-  About Me: "Hi, I am Yvette. I am currently a MTIS student in the University of Victoria. I gained my master degree in Hong Kong University in 2021 and have worked as an iOS developer for Tencent from 2021 to 2024."
+  About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
