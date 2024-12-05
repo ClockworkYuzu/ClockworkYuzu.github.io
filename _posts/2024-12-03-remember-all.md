@@ -13,4 +13,3 @@ Rememberall is a hybrid multimedia notebook application with React Native.
 
 The repository link:
 https://github.com/YvetteHo/rememberAll_notepad_app
-
