@@ -8,14 +8,26 @@ share-img: /assets/img/path.jpg
 tags: [traffic system, slot-based, queue theory]
 author: Yvette He
 ---
+Configurations:
 
 Simulation period: 600s
+
 Intersection of 2 direction:NS(North-South), EW(East-West)
+
 Main road: NS. The main road simulates a busier road.
+
 Crossroad: EW. The crossroad simulates a less busy road.
+
 Vehicle arrivals follow a Poisson process where
- interarrival_times = np.random.exponential(1 / rate, size=n)
-Vehicles on the main road approach at varying arrival rates: [5, 3, 2.5, 2, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4, 1.3, 1.2, 1.1, 1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
+```python
+interarrival_times = np.random.exponential(1 / rate, size=n)
+```
+
+Vehicles on the main road approach at varying arrival rates:
+```python
+[5, 3, 2.5, 2, 1.9, 1.8, 1.7, 1.6, 1.5, 1.4, 1.3, 1.2, 1.1, 1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.2, 0.1]
+```
+
 Vehicles on the crossroad travelling at a slower and consistent speed with arrival rate: 0.1
 
 Traffic Light System Algorithm
