@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "yvetteheh@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: this-is-yvette
+  github: ClockworkYuzu
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "this-is-yvette.com"
+url-pretty: "ClockworkYuzu.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

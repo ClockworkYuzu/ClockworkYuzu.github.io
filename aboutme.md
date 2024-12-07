@@ -6,14 +6,14 @@ subtitle:
 
 Hi, I am Yvette. Welcome to my website.
 
-### My story
+## My story
 
 I am currently a MTIS student in the University of Victoria. I gained my master degree in Hong Kong University in 2021 and have worked as an iOS developer for Tencent from 2021 to 2024.
 
-### My Resume 👇
+## My Resume 👇
 ---
 
-## Education
+### Education
 
 - **The University of Victoria**  
   *MTIS*  
@@ -30,9 +30,9 @@ I am currently a MTIS student in the University of Victoria. I gained my master 
 
 ---
 
-## Work Experience
+### Work Experience
 
-### Tencent Holdings Limited (Dec. 2021 – May 2024)  
+#### Tencent Holdings Limited (Dec. 2021 – May 2024)  
 *Software Engineer*  
 
 - Implemented features on the QQ iOS client.  
@@ -46,7 +46,7 @@ I am currently a MTIS student in the University of Victoria. I gained my master 
 - **Magic Avatar for QQ**: Built a feature to merge style and facial images, enabling identity mixing during avatar generation.  
 - **AIGC Demo Platform**: Created a demo platform with stable diffusion and ControlNet for features like line art, in-painting, and out-painting.
 
-### Huobi Global Limited (Sep. 2019 – Dec. 2021)  
+#### Huobi Global Limited (Sep. 2019 – Dec. 2021)  
 *Quantitative Developer Intern*  
 
 - Designed and developed trader websites for data visualization and risk monitoring.  
@@ -59,7 +59,7 @@ I am currently a MTIS student in the University of Victoria. I gained my master 
 
 ---
 
-## Personal Projects
+### Personal Projects
 
 - **RememberAll**: A cross-platform multimedia notepad app for iOS and Android, supporting text, images, audio, and video.  
   - Built with Realm, SQLite, Django, and Docker.  
@@ -72,7 +72,7 @@ I am currently a MTIS student in the University of Victoria. I gained my master 
 
 ---
 
-## Skills
+### Skills
 
 - **Programming Languages**: Objective-C, Swift, Python, HTML, CSS, TypeScript, SQL, C++  
 - **Frameworks**: iOS SDK, React, React Native, Vue, Django, Flask  
