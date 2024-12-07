@@ -99,4 +99,4 @@ SUMO is an open-source traffic simulation. It is designed for modeling and simul
 
 ![Crepe]({{ '/assets/img/sumo.jpg' | relative_url }})
 
-[GithubLink]https://github.com/this-is-yvette/V2I_Models
+[GithubLink](https://github.com/ClockworkYuzu/V2I_Models)

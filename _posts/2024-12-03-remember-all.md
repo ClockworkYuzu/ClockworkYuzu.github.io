@@ -17,4 +17,4 @@ Rememberall is a hybrid multimedia notebook application with React Native.
 4.  Utilized Nginx for reverse proxy and employed encryption and security modules like ModSecurity. 
 5.  Used Flask as the backend framework, with PostgreSQL and Redis for data storage.
 
-[GithubLink]https://github.com/YvetteHo/rememberAll_notepad_app
+[GithubLink](https://github.com/YvetteHo/rememberAll_notepad_app)
