@@ -8,7 +8,11 @@ share-img: /assets/img/path.jpg
 tags: [traffic system, slot-based, queue theory]
 author: Yvette He
 ---
-Configurations:
+**Main propose:**
+
+A slot-based solution in a traffic management project replaces traditional traffic lights by allocating specific time slots for vehicles from different directions, enabling more efficient traffic flow, reducing delays, and minimizing congestion.
+
+**Configurations:**
 
 Simulation period: 600s
 
@@ -30,9 +34,10 @@ Vehicles on the main road approach at varying arrival rates:
 
 Vehicles on the crossroad travelling at a slower and consistent speed with arrival rate: 0.1
 
-Traffic Light System Algorithm
+**Simulation Algorithm:**
 
 ```python
+Traffic Light System Algorithm
 # configuration:
 green_ns = green_ew = 30
 yellow = 2
@@ -78,23 +83,23 @@ for each time slot:
    current_time += extra_time_needed
 ```
 
-Main Observations:
+**Main Observations:**
 slot-based solution handles higher traffic demand and utilizes system capacity more efficiently
 
 Traffic light system suffers from its “fixed waiting time” and hits the bottleneck at 0.6 vehicles/sec
 
 ![Crepe]({{ '/assets/img/capacity.jpg' | relative_url }})
 
-Slot-based: Capacity Analysis for Both Directions
+**Slot-based: Capacity Analysis for Both Directions**
 ![Crepe]({{ '/assets/img/slot_4_avg_waiting_time.jpg' | relative_url }})
 The average waiting time reduces
 
 ![Crepe]({{ '/assets/img/slot_4_capcity.jpg' | relative_url }})
 The capacity reduces at the same time
 
-Observations:
 Observation: the balance between capacity and average waiting time is inherently a trade-off. The choice of slot time (and overall system design) depends on the specific traffic conditions and priorities.
 
+**SUMO Simulation**
 SUMO is an open-source traffic simulation. It is designed for modeling and simulating transportation systems. Sumo simulation results:
 
 ![Crepe]({{ '/assets/img/sumo.jpg' | relative_url }})
