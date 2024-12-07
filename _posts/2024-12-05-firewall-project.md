@@ -8,10 +8,16 @@ share-img: /assets/img/path.jpg
 tags: [firewal, NGFS]
 author: Yvette He
 ---
+# Main Goals
+
+1.	Demonstrate an in-depth understanding of network topology design and firewall configuration principles.
+2.	Exhibit advanced proficiency in implementing Zero-Trust security concepts.
+3.	Deploy and optimize Next-Generation Firewall (NGFW) features and modules.
+4.	Effectively monitor and analyze network traffic to identify and mitigate potential threats in real-time.
+5.	Integrate and test advanced security policies for comprehensive protection such as application black list, intrusion prevention systems (IPS) and etc.
+
 # Firewall configuration and tasks
 
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
-<!DOCTYPE html>
 <html>
 <head>
 <title>firewall_setting.html</title>
