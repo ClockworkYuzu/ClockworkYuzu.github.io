@@ -11,5 +11,10 @@ author: Yvette He
 
 Rememberall is a hybrid multimedia notebook application with React Native.
 
-The repository link:
-https://github.com/YvetteHo/rememberAll_notepad_app
+1.	Displayed real-time changes in user's assets, profits and losses, positions, and other account information. 
+2.  Used Plotly to visualize the performance and trends of user strategies.
+3.  Used React as the front-end development framework and deployed with Docker.
+4.  Utilized Nginx for reverse proxy and employed encryption and security modules like ModSecurity. 
+5.  Used Flask as the backend framework, with PostgreSQL and Redis for data storage.
+
+[GithubLink]https://github.com/YvetteHo/rememberAll_notepad_app
